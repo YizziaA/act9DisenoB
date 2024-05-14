@@ -38,7 +38,7 @@ class _TeamFolderPageState extends State<TeamFolderPage> {
                       color: Colors.white),
                 ),
                 Text(
-                  "Monje 0509",
+                  "Monge 0509",
                   style: TextStyle(fontSize: 17, color: Colors.white),
                 ),
               ],
